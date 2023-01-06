@@ -1,4 +1,5 @@
-import { render, screen } from "@testing-library/react"
+// import { render, screen } from "@testing-library/react"
+import { render, screen } from "../../../test-utils"
 import SummaryPage from "../SummaryPage"
 
 test("checkbox and button", () => {
